@@ -10,7 +10,7 @@ The quiz includes multiple rounds, with the difficulty increasing as more questi
 - Random number generation in German
 - Audio playback using gTTS and pygame
 - Real-time quiz interaction with tkinter
-- Animated GIFs to enhance the user interface
+- Animated GIF to enhance the user interface
 - Score tracking across multiple rounds
 
 ## Installation
@@ -28,13 +28,13 @@ pip install gtts pygame pillow
 1. Clone this repository:
 
 \`\`\`bash
-git clone https://github.com/yourusername/german-numbers-quiz.git
+git clone https://github.com/GeorgantopoulosGiannis/Audio-German-Numbers-Practice-Test.git
 \`\`\`
 
 2. Navigate to the project directory:
 
 \`\`\`bash
-cd german-numbers-quiz
+cd Audio-German-Numbers-Practice-Test
 \`\`\`
 
 3. Run the application:
